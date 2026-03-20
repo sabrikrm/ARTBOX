@@ -116,10 +116,12 @@ $oeuvres = [
 
 [
 "id" => 15,
-"titre" => "Blaue Gelbe Muster",
-"artiste" => "Adelheid Von Schreiber",
+"titre" => "bonjour",
+"artiste" => "moi",
 "image" => "img/steve-johnson-3.png" ,
 "description" => " Curabitur dui odio, porta vel tempor sed, consectetur vitae mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Orci varius natoque penatibus nec. ",
 ],
+
+
 
 ];
